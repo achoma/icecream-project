@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://github.com/achoma/icecream-project",
+  "homepage": "https://achoma.github.io/icecream-project",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url icecream-project"
+    "build": "parcel build src/*.html --public-url /icecream-project/"
   },
   "repository": {
     "type": "git",
