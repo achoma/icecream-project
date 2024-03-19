@@ -10,7 +10,7 @@ delicious ice cream.
 - 💻 [Technologies Used](#technologies-used)
 - 🚀 [Getting Started](#getting-started)
 - 🌐 [GitHub Pages](#github-pages)
-- 🖼️ [Screenshots](#screenshots)
+<!-- - 🖼️ [Screenshots](#screenshots) -->
 - 🤝 [Contributors](#contributors)
 
 ## Introduction
