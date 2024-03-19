@@ -51,13 +51,7 @@ npm run dev
 ## GitHub Pages
 
 You can view our project live on GitHub Pages. Here's the link:
-[IceCream Ordering Website](https://peterpoterek.github.io/goit-icecream-copy/)
-
-## Screenshots
-
-![image](https://github.com/PeterPoterek/goit-icecream-project/assets/86746994/d5356f4c-c770-4d67-96d0-a4dcfc129bff)
-![image](https://github.com/PeterPoterek/goit-icecream-project/assets/86746994/a23529af-9e0b-496f-bfd9-95e38ab25fd7)
-![image](https://github.com/PeterPoterek/goit-icecream-project/assets/86746994/6d2561e8-1438-4992-8496-58f6ee883b06)
+[IceCream Ordering Website](https://achoma.github.io/icecream-project/)
 
 ## Contributors
 
